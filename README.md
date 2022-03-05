@@ -1,2 +1,2 @@
-# flappy_game
-Flappy bird using pygame
+# flappy bird game
+I used pygame to make famous flappy bird
